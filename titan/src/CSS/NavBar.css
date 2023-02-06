@@ -1,0 +1,130 @@
+img {
+  width: 100px;
+}
+#signin {
+  margin-right: 60px;
+}
+#signin > a {
+  text-decoration: none;
+}
+.mainContainer {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 45px;
+  font-family: Arial;
+  white-space: normal;
+}
+.secondContainer {
+  text-align: center;
+  font-family: Arial;
+}
+#btn1 {
+  display: flex;
+  margin-left: 450px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: blue;
+  border-color: blue;
+}
+#btn1 > a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.videoContainer > video {
+  margin-top: 20px;
+  margin-left: 400px;
+  /* width: 320; */
+  height: 700;
+}
+#thirdPara {
+  margin-top: 40px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial;
+}
+#fourPara {
+  text-align: center;
+  font-size: 17px;
+  font-family: Arial;
+}
+#thirdImg {
+  width: 300px;
+  margin-left: 400px;
+}
+.fourContainer {
+  margin-top: 30px;
+  border: 1px solid blue;
+  margin-left: 30px;
+  /* margin-right: 800px; */
+  padding: 20px;
+  border-width: 5px;
+  /* text-align: center; */
+  background-color: blue;
+  color: white;
+}
+#myPic {
+  width: 50px;
+  border-radius: 100px;
+}
+#cardContainer {
+  display: flex;
+  margin-top: 20px;
+  /* background-color:lightgreen; */
+}
+.fourContainer2 {
+  background-color: blue;
+  margin-top: 30px;
+  border: 1px solid blue;
+  margin-left: 30px;
+  padding-left: 10px;
+  padding: 20px;
+  border-width: 5px;
+  /* text-align: center; */
+  background-color: blue;
+  color: white;
+}
+
+.fourContainer3 {
+  background-color: aqua;
+  margin-top: 30px;
+  border: 1px solid darkcyan;
+  margin-left: 30px;
+  padding-left: 10px;
+  padding: 20px;
+  border-width: 5px;
+  /* text-align: center; */
+  background-color: darkcyan;
+  color: white;
+}
+
+.lastContainer {
+  font-size: 35px;
+  font-family: Arial;
+  text-align: center;
+  margin-top: 20px;
+}
+#lasttxt {
+  font-size: 17px;
+  text-align: center;
+}
+#btn3 {
+  margin-left: 400px;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: rgb(94, 160, 160);
+  border-color: white;
+}
+.foottitan > a {
+  margin-left: 30px;
+  text-decoration: none;
+}
+#lastlogo {
+  width: 200px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.footerlogo1{
+  font-size: 20px;
+  margin-left: 50px;
+}
